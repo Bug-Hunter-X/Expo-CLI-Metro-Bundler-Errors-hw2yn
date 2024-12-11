@@ -1,0 +1,1 @@
+This error typically occurs when using Expo CLI and you encounter issues related to the Metro bundler. It might manifest as unexpected behavior, build failures, or crashes during development. While there's no single "uncommon" error, the root cause often lies in misconfigurations of your project setup, dependencies, or interactions with native modules.
